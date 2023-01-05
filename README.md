@@ -1,6 +1,6 @@
 # Calibrate temperature and humidity readings of lamp sensor
 
-<img alt="Streamlit app for calibrating the temperature and humidity readings of lamp sensor" title="Streamlit app for calibrating the temperature and humidity readings of lamp sensor" src="reports/img/streamlitapp.png" width="375"  hspace="15"> <img alt="Exploratory data analysis of room temperature and lamp sensor readings" title="Exploratory data analysis of room temperature and lamp sensor readings" src="reports/img/roomlampeda.png" width="375"  hspace="15">
+<img alt="Exploratory data analysis of room temperature and lamp sensor readings" title="Exploratory data analysis of room temperature and lamp sensor readings" src="reports/img/roomlampeda.png" width="375"  hspace="15"> <img alt="Streamlit app for calibrating the temperature and humidity readings of lamp sensor" title="Streamlit app for calibrating the temperature and humidity readings of lamp sensor" src="reports/img/streamlitapp.png" width="375"  hspace="15">
 
 #### -- Project Status: [Completed]
 
